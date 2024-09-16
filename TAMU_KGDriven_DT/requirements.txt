@@ -1,0 +1,7 @@
+geopandas
+rdflib
+pandas
+shapely
+sched
+
+
